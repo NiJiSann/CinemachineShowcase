@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.Serialization;
 using UnityEngine.UI;
 
 namespace NaviCm
@@ -7,7 +8,7 @@ namespace NaviCm
     {
         [SerializeField] private GameState gameState;
         [SerializeField] private ActiveArea activeArea;
-        [SerializeField] private AreaLightController areaLightController;
+        [FormerlySerializedAs("areaLightController")] [SerializeField] private AreaFxController areaFxController;
         [SerializeField] private Button backToInitialCamera;
         [SerializeField] private GameObject initialCamera;
 
@@ -34,7 +35,7 @@ namespace NaviCm
                 _hoveredAreaCamera.SetActive(true);
                 _activeAreaCamera.SetActive(false);
                 _activeAreaCamera = _hoveredAreaCamera;
-                areaLightController.TurnOffActiveLight();
+                areaFxController.TurnOffActiveLight();
             }
         }
     
