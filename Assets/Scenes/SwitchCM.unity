@@ -175,6 +175,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestCanoe (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 4186286167812494607, guid: f6c2d9f9bce84fe4696cf5ab0104b163, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -261,6 +265,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Forest_Smoke_PS
       objectReference: {fileID: 0}
+    - target: {fileID: 1463542284069327566, guid: 9b622658a521a004fa6c676681e8546d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -338,6 +346,10 @@ PrefabInstance:
     - target: {fileID: 7806580461576835451, guid: 0ec824720ae65bd4cbe0e6de04e30367, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunk_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7806580461576835451, guid: 0ec824720ae65bd4cbe0e6de04e30367, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -417,6 +429,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestEmpty (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -438,6 +454,10 @@ PrefabInstance:
     - target: {fileID: 545504836582848795, guid: d1b37b7a95bfc7b43aa1b59e57783aca, type: 3}
       propertyPath: m_Name
       value: ForestRiverStraight (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 545504836582848795, guid: d1b37b7a95bfc7b43aa1b59e57783aca, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3587499848545454856, guid: d1b37b7a95bfc7b43aa1b59e57783aca, type: 3}
       propertyPath: m_RootOrder
@@ -573,6 +593,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunk_01 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 7806580461576835451, guid: 0ec824720ae65bd4cbe0e6de04e30367, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -594,6 +618,10 @@ PrefabInstance:
     - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
@@ -660,6 +688,10 @@ PrefabInstance:
     - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
@@ -795,6 +827,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeSpruce_02 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -872,6 +908,10 @@ PrefabInstance:
     - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_02 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -951,6 +991,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestEmpty (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -972,6 +1016,10 @@ PrefabInstance:
     - target: {fileID: 4758129247282842399, guid: e99ed4ce967aa8a4c8b6e9d19ebbd8b8, type: 3}
       propertyPath: m_Name
       value: ForestTree_02 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4758129247282842399, guid: e99ed4ce967aa8a4c8b6e9d19ebbd8b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8382074735531800844, guid: e99ed4ce967aa8a4c8b6e9d19ebbd8b8, type: 3}
       propertyPath: m_RootOrder
@@ -1038,6 +1086,10 @@ PrefabInstance:
     - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
@@ -1116,6 +1168,10 @@ PrefabInstance:
     - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
@@ -1239,6 +1295,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunk_01 (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 7806580461576835451, guid: 0ec824720ae65bd4cbe0e6de04e30367, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1260,6 +1320,10 @@ PrefabInstance:
     - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
@@ -1383,6 +1447,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeSpruce_02 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1404,6 +1472,10 @@ PrefabInstance:
     - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
@@ -1482,6 +1554,10 @@ PrefabInstance:
     - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
@@ -1605,6 +1681,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeSpruce_02 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1626,6 +1706,10 @@ PrefabInstance:
     - target: {fileID: 4758129247282842399, guid: e99ed4ce967aa8a4c8b6e9d19ebbd8b8, type: 3}
       propertyPath: m_Name
       value: ForestTree_02 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4758129247282842399, guid: e99ed4ce967aa8a4c8b6e9d19ebbd8b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8382074735531800844, guid: e99ed4ce967aa8a4c8b6e9d19ebbd8b8, type: 3}
       propertyPath: m_RootOrder
@@ -1692,6 +1776,10 @@ PrefabInstance:
     - target: {fileID: 1574454606070941667, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
       propertyPath: m_Name
       value: ForestTree_01 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1574454606070941667, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2558835995030124016, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
       propertyPath: m_RootOrder
@@ -1815,6 +1903,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (36)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1836,6 +1928,10 @@ PrefabInstance:
     - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
@@ -1914,6 +2010,10 @@ PrefabInstance:
     - target: {fileID: 4758129247282842399, guid: e99ed4ce967aa8a4c8b6e9d19ebbd8b8, type: 3}
       propertyPath: m_Name
       value: ForestTree_02 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4758129247282842399, guid: e99ed4ce967aa8a4c8b6e9d19ebbd8b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8382074735531800844, guid: e99ed4ce967aa8a4c8b6e9d19ebbd8b8, type: 3}
       propertyPath: m_RootOrder
@@ -2037,6 +2137,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestEmpty (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2058,6 +2162,10 @@ PrefabInstance:
     - target: {fileID: 1574454606070941667, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
       propertyPath: m_Name
       value: ForestTree_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1574454606070941667, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2558835995030124016, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
       propertyPath: m_RootOrder
@@ -2124,6 +2232,10 @@ PrefabInstance:
     - target: {fileID: 5989293458757905203, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunk_02 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5989293458757905203, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7297352518722591008, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
       propertyPath: m_RootOrder
@@ -2247,6 +2359,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeSpruce_02 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2325,6 +2441,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2346,6 +2466,10 @@ PrefabInstance:
     - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_03 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2470780028315981415, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_RootOrder
@@ -2424,6 +2548,10 @@ PrefabInstance:
     - target: {fileID: 5276820834552085202, guid: f866f48ee40da9a4c9cb662cfab62f55, type: 3}
       propertyPath: m_Name
       value: ForestPaddle (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5276820834552085202, guid: f866f48ee40da9a4c9cb662cfab62f55, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 9178425443367094465, guid: f866f48ee40da9a4c9cb662cfab62f55, type: 3}
       propertyPath: m_RootOrder
@@ -2535,6 +2663,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8786015314327442227, guid: 2376b0bc23c563543a8ec1756b256f2a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2556,6 +2688,10 @@ PrefabInstance:
     - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_03 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2470780028315981415, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_RootOrder
@@ -2691,6 +2827,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (38)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2712,6 +2852,10 @@ PrefabInstance:
     - target: {fileID: 5989293458757905203, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunk_02 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5989293458757905203, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7297352518722591008, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
       propertyPath: m_RootOrder
@@ -2791,6 +2935,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunk_02 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 5989293458757905203, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7297352518722591008, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
       propertyPath: m_RootOrder
       value: 27
@@ -2868,6 +3016,10 @@ PrefabInstance:
     - target: {fileID: 1574454606070941667, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
       propertyPath: m_Name
       value: ForestTree_01 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1574454606070941667, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2558835995030124016, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
       propertyPath: m_RootOrder
@@ -3003,6 +3155,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestEmpty (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3024,6 +3180,10 @@ PrefabInstance:
     - target: {fileID: 5989293458757905203, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunk_02 (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5989293458757905203, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7297352518722591008, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
       propertyPath: m_RootOrder
@@ -3159,6 +3319,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3180,6 +3344,10 @@ PrefabInstance:
     - target: {fileID: 6330891454689021117, guid: 43631788bbf6c334c99fece93270ffc4, type: 3}
       propertyPath: m_Name
       value: ForestRiverCurve (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6330891454689021117, guid: 43631788bbf6c334c99fece93270ffc4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7025758237699702446, guid: 43631788bbf6c334c99fece93270ffc4, type: 3}
       propertyPath: m_RootOrder
@@ -3258,6 +3426,10 @@ PrefabInstance:
     - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_03 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2470780028315981415, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_RootOrder
@@ -3507,6 +3679,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeSpruce_03 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 2470780028315981415, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_RootOrder
       value: 18
@@ -3584,6 +3760,10 @@ PrefabInstance:
     - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
@@ -3719,6 +3899,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom01 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 8786015314327442227, guid: 2376b0bc23c563543a8ec1756b256f2a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3797,6 +3981,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (31)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3818,6 +4006,10 @@ PrefabInstance:
     - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
@@ -3896,6 +4088,10 @@ PrefabInstance:
     - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_03 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2470780028315981415, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_RootOrder
@@ -4031,6 +4227,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestEmpty (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4052,6 +4252,10 @@ PrefabInstance:
     - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
@@ -4118,6 +4322,10 @@ PrefabInstance:
     - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_03 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2470780028315981415, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_RootOrder
@@ -4197,6 +4405,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestBridge_02 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6720714789835660688, guid: ce3722c701253c3498f8d0aa88413d00, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7719063824791809923, guid: ce3722c701253c3498f8d0aa88413d00, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -4262,6 +4474,10 @@ PrefabInstance:
     - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
@@ -4472,6 +4688,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeSpruce_02 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4671,6 +4891,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTent_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 3778682633861357730, guid: a5a01801ab4c97d46a7b6f97c5b13d50, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4748,6 +4972,10 @@ PrefabInstance:
     - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
       propertyPath: m_Name
       value: ForestMushroom02 (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4827,6 +5055,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeSpruce_02 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4905,6 +5137,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4926,6 +5162,10 @@ PrefabInstance:
     - target: {fileID: 6330891454689021117, guid: 43631788bbf6c334c99fece93270ffc4, type: 3}
       propertyPath: m_Name
       value: ForestRiverCurve (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6330891454689021117, guid: 43631788bbf6c334c99fece93270ffc4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7025758237699702446, guid: 43631788bbf6c334c99fece93270ffc4, type: 3}
       propertyPath: m_RootOrder
@@ -5007,7 +5247,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &433210297
 Transform:
@@ -5151,6 +5391,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestEmpty (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5172,6 +5416,10 @@ PrefabInstance:
     - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
@@ -5250,6 +5498,10 @@ PrefabInstance:
     - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
@@ -5385,6 +5637,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5406,6 +5662,10 @@ PrefabInstance:
     - target: {fileID: 1774231345906427277, guid: 2394fb2256b498a41b6142005b9576b2, type: 3}
       propertyPath: m_Name
       value: ForestStart (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1774231345906427277, guid: 2394fb2256b498a41b6142005b9576b2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3369835853068851102, guid: 2394fb2256b498a41b6142005b9576b2, type: 3}
       propertyPath: m_RootOrder
@@ -5485,6 +5745,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTree_01 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1574454606070941667, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 2558835995030124016, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
       propertyPath: m_RootOrder
       value: 30
@@ -5551,6 +5815,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
       value: 34
@@ -5616,6 +5884,10 @@ PrefabInstance:
     - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
@@ -5739,6 +6011,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom01 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8786015314327442227, guid: 2376b0bc23c563543a8ec1756b256f2a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5804,6 +6080,10 @@ PrefabInstance:
     - target: {fileID: 7233224113183444986, guid: 12610459618e49643a0bf2e85919e2d0, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunkBench (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7233224113183444986, guid: 12610459618e49643a0bf2e85919e2d0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5871,6 +6151,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5892,6 +6176,10 @@ PrefabInstance:
     - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
@@ -5958,6 +6246,10 @@ PrefabInstance:
     - target: {fileID: 4758129247282842399, guid: e99ed4ce967aa8a4c8b6e9d19ebbd8b8, type: 3}
       propertyPath: m_Name
       value: ForestTree_02 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4758129247282842399, guid: e99ed4ce967aa8a4c8b6e9d19ebbd8b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8382074735531800844, guid: e99ed4ce967aa8a4c8b6e9d19ebbd8b8, type: 3}
       propertyPath: m_RootOrder
@@ -6037,6 +6329,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestCrossing_02 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1149615989757281436, guid: 0ed2b84e4ae56a94d88d181ac8fcf6a4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4156567911437268623, guid: 0ed2b84e4ae56a94d88d181ac8fcf6a4, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -6114,6 +6410,10 @@ PrefabInstance:
     - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
@@ -6237,6 +6537,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunk_01 (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 7806580461576835451, guid: 0ec824720ae65bd4cbe0e6de04e30367, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6258,6 +6562,10 @@ PrefabInstance:
     - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_03 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2470780028315981415, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_RootOrder
@@ -6337,6 +6645,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeSpruce_03 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 2470780028315981415, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_RootOrder
       value: 43
@@ -6415,6 +6727,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
       value: 25
@@ -6492,6 +6808,10 @@ PrefabInstance:
     - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
@@ -6627,6 +6947,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (40)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6648,6 +6972,10 @@ PrefabInstance:
     - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
@@ -6771,6 +7099,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestFire (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 3856259895457030974, guid: deb2a7132a29f404cb23a1820ed42cc4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
@@ -6795,6 +7127,10 @@ PrefabInstance:
     - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_03 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2470780028315981415, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_RootOrder
@@ -6930,6 +7266,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7008,6 +7348,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeSpruce_02 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7073,6 +7417,10 @@ PrefabInstance:
     - target: {fileID: 8949762073799961840, guid: dc840a55578ddf8478be0c7c187906d9, type: 3}
       propertyPath: m_Name
       value: ForestStone (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8949762073799961840, guid: dc840a55578ddf8478be0c7c187906d9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7152,6 +7500,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7173,6 +7525,10 @@ PrefabInstance:
     - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
@@ -7252,6 +7608,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestStraight (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 5246580490005629152, guid: 9ea5006d00aa472499ba0ca360b48c70, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 9121127284903852787, guid: 9ea5006d00aa472499ba0ca360b48c70, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -7329,6 +7689,10 @@ PrefabInstance:
     - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_03 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2470780028315981415, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_RootOrder
@@ -7464,6 +7828,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestEmpty (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7485,6 +7853,10 @@ PrefabInstance:
     - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
@@ -7563,6 +7935,10 @@ PrefabInstance:
     - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_03 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2470780028315981415, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_RootOrder
@@ -7698,6 +8074,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeSpruce_02 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7751,6 +8131,10 @@ PrefabInstance:
     - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_03 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2470780028315981415, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_RootOrder
@@ -7829,6 +8213,10 @@ PrefabInstance:
     - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
@@ -7985,6 +8373,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8786015314327442227, guid: 2376b0bc23c563543a8ec1756b256f2a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8006,6 +8398,10 @@ PrefabInstance:
     - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
@@ -8072,6 +8468,10 @@ PrefabInstance:
     - target: {fileID: 5989293458757905203, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunk_02 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5989293458757905203, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7297352518722591008, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
       propertyPath: m_RootOrder
@@ -8151,6 +8551,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunk_02 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 5989293458757905203, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7297352518722591008, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
       propertyPath: m_RootOrder
       value: 28
@@ -8229,6 +8633,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
       value: 75
@@ -8295,6 +8703,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
       value: 84
@@ -8360,6 +8772,10 @@ PrefabInstance:
     - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_03 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2470780028315981415, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_RootOrder
@@ -8439,6 +8855,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
       value: 71
@@ -8505,6 +8925,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
       value: 32
@@ -8570,6 +8994,10 @@ PrefabInstance:
     - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
@@ -8648,6 +9076,10 @@ PrefabInstance:
     - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
@@ -8770,6 +9202,10 @@ PrefabInstance:
     - target: {fileID: 8786015314327442227, guid: 2376b0bc23c563543a8ec1756b256f2a, type: 3}
       propertyPath: m_Name
       value: ForestMushroom01 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8786015314327442227, guid: 2376b0bc23c563543a8ec1756b256f2a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9016,6 +9452,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
       value: 20
@@ -9150,6 +9590,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeSpruce_02 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9227,6 +9671,10 @@ PrefabInstance:
     - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
       propertyPath: m_Name
       value: ForestMushroom02 (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9306,6 +9754,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom01 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8786015314327442227, guid: 2376b0bc23c563543a8ec1756b256f2a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9383,6 +9835,10 @@ PrefabInstance:
     - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_02 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9516,6 +9972,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestEmpty (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9594,6 +10054,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeSpruce_02 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9671,6 +10135,10 @@ PrefabInstance:
     - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_02 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9768,6 +10236,10 @@ PrefabInstance:
     - target: {fileID: 5989293458757905203, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunk_02 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5989293458757905203, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7297352518722591008, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
       propertyPath: m_RootOrder
@@ -9895,6 +10367,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom01 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 8786015314327442227, guid: 2376b0bc23c563543a8ec1756b256f2a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9916,6 +10392,10 @@ PrefabInstance:
     - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
@@ -10051,6 +10531,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeSpruce_02 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10129,6 +10613,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10150,6 +10638,10 @@ PrefabInstance:
     - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
@@ -10216,6 +10708,10 @@ PrefabInstance:
     - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_03 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2470780028315981415, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_RootOrder
@@ -10294,6 +10790,10 @@ PrefabInstance:
     - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
@@ -10417,6 +10917,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeSpruce_02 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10438,6 +10942,10 @@ PrefabInstance:
     - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
@@ -10573,6 +11081,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestEmpty (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10650,6 +11162,10 @@ PrefabInstance:
     - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
       propertyPath: m_Name
       value: ForestMushroom02 (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10729,6 +11245,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestEmpty (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10807,6 +11327,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunk_01 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 7806580461576835451, guid: 0ec824720ae65bd4cbe0e6de04e30367, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10828,6 +11352,10 @@ PrefabInstance:
     - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
@@ -10963,6 +11491,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestEmpty (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11041,6 +11573,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11062,6 +11598,10 @@ PrefabInstance:
     - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
@@ -11197,6 +11737,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestEmpty (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11218,6 +11762,10 @@ PrefabInstance:
     - target: {fileID: 5989293458757905203, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunk_02 (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5989293458757905203, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7297352518722591008, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
       propertyPath: m_RootOrder
@@ -11353,6 +11901,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11431,6 +11983,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeSpruce_02 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11452,6 +12008,10 @@ PrefabInstance:
     - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
@@ -11530,6 +12090,10 @@ PrefabInstance:
     - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_03 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2470780028315981415, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_RootOrder
@@ -11665,6 +12229,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunk_01 (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 7806580461576835451, guid: 0ec824720ae65bd4cbe0e6de04e30367, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11743,6 +12311,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeSpruce_02 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11764,6 +12336,10 @@ PrefabInstance:
     - target: {fileID: 6330891454689021117, guid: 43631788bbf6c334c99fece93270ffc4, type: 3}
       propertyPath: m_Name
       value: ForestRiverCurve (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6330891454689021117, guid: 43631788bbf6c334c99fece93270ffc4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7025758237699702446, guid: 43631788bbf6c334c99fece93270ffc4, type: 3}
       propertyPath: m_RootOrder
@@ -11843,6 +12419,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
       value: 63
@@ -11908,6 +12488,10 @@ PrefabInstance:
     - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
@@ -12043,6 +12627,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestAxe (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 8968911191235878446, guid: abcf5a75abc219c4ab38d041d5e0cd9d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12121,6 +12709,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeSpruce_02 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12142,6 +12734,10 @@ PrefabInstance:
     - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
@@ -12208,6 +12804,10 @@ PrefabInstance:
     - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
@@ -12331,6 +12931,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunk_01 (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 7806580461576835451, guid: 0ec824720ae65bd4cbe0e6de04e30367, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12352,6 +12956,10 @@ PrefabInstance:
     - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_03 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2470780028315981415, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_RootOrder
@@ -12475,6 +13083,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunk_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7806580461576835451, guid: 0ec824720ae65bd4cbe0e6de04e30367, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12552,6 +13164,10 @@ PrefabInstance:
     - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_02 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12631,6 +13247,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12709,6 +13329,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestStone (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 8949762073799961840, guid: dc840a55578ddf8478be0c7c187906d9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12730,6 +13354,10 @@ PrefabInstance:
     - target: {fileID: 5276820834552085202, guid: f866f48ee40da9a4c9cb662cfab62f55, type: 3}
       propertyPath: m_Name
       value: ForestPaddle (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5276820834552085202, guid: f866f48ee40da9a4c9cb662cfab62f55, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 9178425443367094465, guid: f866f48ee40da9a4c9cb662cfab62f55, type: 3}
       propertyPath: m_RootOrder
@@ -12796,6 +13424,10 @@ PrefabInstance:
     - target: {fileID: 5989293458757905203, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunk_02 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5989293458757905203, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7297352518722591008, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
       propertyPath: m_RootOrder
@@ -12865,6 +13497,10 @@ PrefabInstance:
     - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_03 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2470780028315981415, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_RootOrder
@@ -12944,6 +13580,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
       value: 87
@@ -13010,6 +13650,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
       value: 24
@@ -13075,6 +13719,10 @@ PrefabInstance:
     - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
@@ -13198,6 +13846,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestEmpty (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13275,6 +13927,10 @@ PrefabInstance:
     - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
       propertyPath: m_Name
       value: ForestMushroom02 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13354,6 +14010,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom01 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8786015314327442227, guid: 2376b0bc23c563543a8ec1756b256f2a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13431,6 +14091,10 @@ PrefabInstance:
     - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
       propertyPath: m_Name
       value: ForestEmpty (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13510,6 +14174,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom01 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 8786015314327442227, guid: 2376b0bc23c563543a8ec1756b256f2a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13576,6 +14244,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13597,6 +14269,10 @@ PrefabInstance:
     - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
@@ -13664,6 +14340,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
       value: 76
@@ -13729,6 +14409,10 @@ PrefabInstance:
     - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
@@ -13852,6 +14536,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestEmpty (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13873,6 +14561,10 @@ PrefabInstance:
     - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
@@ -13996,6 +14688,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14017,6 +14713,10 @@ PrefabInstance:
     - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
@@ -14095,6 +14795,10 @@ PrefabInstance:
     - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_03 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2470780028315981415, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_RootOrder
@@ -14218,6 +14922,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunkBench (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 7233224113183444986, guid: 12610459618e49643a0bf2e85919e2d0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14295,6 +15003,10 @@ PrefabInstance:
     - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_02 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14374,6 +15086,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunk_01 (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 7806580461576835451, guid: 0ec824720ae65bd4cbe0e6de04e30367, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14452,6 +15168,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14473,6 +15193,10 @@ PrefabInstance:
     - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
@@ -14552,6 +15276,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
       value: 34
@@ -14629,6 +15357,10 @@ PrefabInstance:
     - target: {fileID: 4935780969930072365, guid: adf0c288a9757be4f9690e18cf978cb7, type: 3}
       propertyPath: m_Name
       value: ForestBoat (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4935780969930072365, guid: adf0c288a9757be4f9690e18cf978cb7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8224755430480827198, guid: adf0c288a9757be4f9690e18cf978cb7, type: 3}
       propertyPath: m_RootOrder
@@ -14713,6 +15445,10 @@ PrefabInstance:
     - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
@@ -14836,6 +15572,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestAxe (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8968911191235878446, guid: abcf5a75abc219c4ab38d041d5e0cd9d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14857,6 +15597,10 @@ PrefabInstance:
     - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
@@ -14980,6 +15724,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeSpruce_02 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15058,6 +15806,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom01 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 8786015314327442227, guid: 2376b0bc23c563543a8ec1756b256f2a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15079,6 +15831,10 @@ PrefabInstance:
     - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
@@ -15214,6 +15970,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (39)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15235,6 +15995,10 @@ PrefabInstance:
     - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
@@ -15301,6 +16065,10 @@ PrefabInstance:
     - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_03 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2470780028315981415, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_RootOrder
@@ -15379,6 +16147,10 @@ PrefabInstance:
     - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
@@ -15502,6 +16274,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15580,6 +16356,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunk_01 (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 7806580461576835451, guid: 0ec824720ae65bd4cbe0e6de04e30367, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15601,6 +16381,10 @@ PrefabInstance:
     - target: {fileID: 1574454606070941667, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
       propertyPath: m_Name
       value: ForestTree_01 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1574454606070941667, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2558835995030124016, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
       propertyPath: m_RootOrder
@@ -15736,6 +16520,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunk_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7806580461576835451, guid: 0ec824720ae65bd4cbe0e6de04e30367, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15814,6 +16602,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom01 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8786015314327442227, guid: 2376b0bc23c563543a8ec1756b256f2a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15835,6 +16627,10 @@ PrefabInstance:
     - target: {fileID: 1774231345906427277, guid: 2394fb2256b498a41b6142005b9576b2, type: 3}
       propertyPath: m_Name
       value: ForestStart (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1774231345906427277, guid: 2394fb2256b498a41b6142005b9576b2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3369835853068851102, guid: 2394fb2256b498a41b6142005b9576b2, type: 3}
       propertyPath: m_RootOrder
@@ -15958,6 +16754,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15982,7 +16782,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1223187834
 Transform:
@@ -16046,6 +16846,10 @@ PrefabInstance:
     - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
@@ -16125,6 +16929,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTree_02 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 4758129247282842399, guid: e99ed4ce967aa8a4c8b6e9d19ebbd8b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8382074735531800844, guid: e99ed4ce967aa8a4c8b6e9d19ebbd8b8, type: 3}
       propertyPath: m_RootOrder
       value: 58
@@ -16190,6 +16998,10 @@ PrefabInstance:
     - target: {fileID: 1574454606070941667, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
       propertyPath: m_Name
       value: ForestTree_01 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1574454606070941667, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2558835995030124016, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
       propertyPath: m_RootOrder
@@ -16325,6 +17137,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunk_01 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 7806580461576835451, guid: 0ec824720ae65bd4cbe0e6de04e30367, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16402,6 +17218,10 @@ PrefabInstance:
     - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_02 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16481,6 +17301,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunk_01 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 7806580461576835451, guid: 0ec824720ae65bd4cbe0e6de04e30367, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16502,6 +17326,10 @@ PrefabInstance:
     - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_03 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2470780028315981415, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_RootOrder
@@ -16580,6 +17408,10 @@ PrefabInstance:
     - target: {fileID: 545504836582848795, guid: d1b37b7a95bfc7b43aa1b59e57783aca, type: 3}
       propertyPath: m_Name
       value: ForestRiverStraight (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 545504836582848795, guid: d1b37b7a95bfc7b43aa1b59e57783aca, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3587499848545454856, guid: d1b37b7a95bfc7b43aa1b59e57783aca, type: 3}
       propertyPath: m_RootOrder
@@ -16715,6 +17547,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestEmpty (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16736,6 +17572,10 @@ PrefabInstance:
     - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
@@ -16859,6 +17699,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16937,6 +17781,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestEmpty (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16958,6 +17806,10 @@ PrefabInstance:
     - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
@@ -17081,6 +17933,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestEmpty (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17102,6 +17958,10 @@ PrefabInstance:
     - target: {fileID: 5276820834552085202, guid: f866f48ee40da9a4c9cb662cfab62f55, type: 3}
       propertyPath: m_Name
       value: ForestPaddle (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5276820834552085202, guid: f866f48ee40da9a4c9cb662cfab62f55, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 9178425443367094465, guid: f866f48ee40da9a4c9cb662cfab62f55, type: 3}
       propertyPath: m_RootOrder
@@ -17169,6 +18029,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
       value: 30
@@ -17234,6 +18098,10 @@ PrefabInstance:
     - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_03 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2470780028315981415, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_RootOrder
@@ -17312,6 +18180,10 @@ PrefabInstance:
     - target: {fileID: 4758129247282842399, guid: e99ed4ce967aa8a4c8b6e9d19ebbd8b8, type: 3}
       propertyPath: m_Name
       value: ForestTree_02 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4758129247282842399, guid: e99ed4ce967aa8a4c8b6e9d19ebbd8b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8382074735531800844, guid: e99ed4ce967aa8a4c8b6e9d19ebbd8b8, type: 3}
       propertyPath: m_RootOrder
@@ -17447,6 +18319,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestEmpty (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17524,6 +18400,10 @@ PrefabInstance:
     - target: {fileID: 2460503034897897397, guid: 257e42b9a9f55ec43b4032bf0a9efc30, type: 3}
       propertyPath: m_Name
       value: ForestLake (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2460503034897897397, guid: 257e42b9a9f55ec43b4032bf0a9efc30, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17603,6 +18483,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17681,6 +18565,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17702,6 +18590,10 @@ PrefabInstance:
     - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
@@ -17825,6 +18717,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17846,6 +18742,10 @@ PrefabInstance:
     - target: {fileID: 5989293458757905203, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunk_02 (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5989293458757905203, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7297352518722591008, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
       propertyPath: m_RootOrder
@@ -17981,6 +18881,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeSpruce_02 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18058,6 +18962,10 @@ PrefabInstance:
     - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_02 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18137,6 +19045,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestEmpty (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18203,6 +19115,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom01 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 8786015314327442227, guid: 2376b0bc23c563543a8ec1756b256f2a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18224,6 +19140,10 @@ PrefabInstance:
     - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
@@ -18359,6 +19279,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18380,6 +19304,10 @@ PrefabInstance:
     - target: {fileID: 4758129247282842399, guid: e99ed4ce967aa8a4c8b6e9d19ebbd8b8, type: 3}
       propertyPath: m_Name
       value: ForestTree_02 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4758129247282842399, guid: e99ed4ce967aa8a4c8b6e9d19ebbd8b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8382074735531800844, guid: e99ed4ce967aa8a4c8b6e9d19ebbd8b8, type: 3}
       propertyPath: m_RootOrder
@@ -18446,6 +19374,10 @@ PrefabInstance:
     - target: {fileID: 4758129247282842399, guid: e99ed4ce967aa8a4c8b6e9d19ebbd8b8, type: 3}
       propertyPath: m_Name
       value: ForestTree_02 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4758129247282842399, guid: e99ed4ce967aa8a4c8b6e9d19ebbd8b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8382074735531800844, guid: e99ed4ce967aa8a4c8b6e9d19ebbd8b8, type: 3}
       propertyPath: m_RootOrder
@@ -18581,6 +19513,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeSpruce_02 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18602,6 +19538,10 @@ PrefabInstance:
     - target: {fileID: 545504836582848795, guid: d1b37b7a95bfc7b43aa1b59e57783aca, type: 3}
       propertyPath: m_Name
       value: ForestRiverStraight (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 545504836582848795, guid: d1b37b7a95bfc7b43aa1b59e57783aca, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3587499848545454856, guid: d1b37b7a95bfc7b43aa1b59e57783aca, type: 3}
       propertyPath: m_RootOrder
@@ -18737,6 +19677,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18814,6 +19758,10 @@ PrefabInstance:
     - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
       propertyPath: m_Name
       value: ForestMushroom02 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18893,6 +19841,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestEmpty (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18914,6 +19866,10 @@ PrefabInstance:
     - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
@@ -19037,6 +19993,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunk_01 (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 7806580461576835451, guid: 0ec824720ae65bd4cbe0e6de04e30367, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19058,6 +20018,10 @@ PrefabInstance:
     - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
@@ -19181,6 +20145,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestCanoe (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 4186286167812494607, guid: f6c2d9f9bce84fe4696cf5ab0104b163, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19202,6 +20170,10 @@ PrefabInstance:
     - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
@@ -19281,6 +20253,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
       value: 17
@@ -19358,6 +20334,10 @@ PrefabInstance:
     - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_03 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2470780028315981415, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_RootOrder
@@ -19493,6 +20473,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunk_01 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 7806580461576835451, guid: 0ec824720ae65bd4cbe0e6de04e30367, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19570,6 +20554,10 @@ PrefabInstance:
     - target: {fileID: 7806580461576835451, guid: 0ec824720ae65bd4cbe0e6de04e30367, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunk_01 (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7806580461576835451, guid: 0ec824720ae65bd4cbe0e6de04e30367, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19649,6 +20637,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunk_01 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 7806580461576835451, guid: 0ec824720ae65bd4cbe0e6de04e30367, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19726,6 +20718,10 @@ PrefabInstance:
     - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
       propertyPath: m_Name
       value: ForestMushroom02 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19805,6 +20801,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestEmpty (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19882,6 +20882,10 @@ PrefabInstance:
     - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_02 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19961,6 +20965,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunk_01 (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 7806580461576835451, guid: 0ec824720ae65bd4cbe0e6de04e30367, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19982,6 +20990,10 @@ PrefabInstance:
     - target: {fileID: 4758129247282842399, guid: e99ed4ce967aa8a4c8b6e9d19ebbd8b8, type: 3}
       propertyPath: m_Name
       value: ForestTree_02 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4758129247282842399, guid: e99ed4ce967aa8a4c8b6e9d19ebbd8b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8382074735531800844, guid: e99ed4ce967aa8a4c8b6e9d19ebbd8b8, type: 3}
       propertyPath: m_RootOrder
@@ -20105,6 +21117,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (41)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -20126,6 +21142,10 @@ PrefabInstance:
     - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
@@ -20192,6 +21212,10 @@ PrefabInstance:
     - target: {fileID: 1774231345906427277, guid: 2394fb2256b498a41b6142005b9576b2, type: 3}
       propertyPath: m_Name
       value: ForestStart (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1774231345906427277, guid: 2394fb2256b498a41b6142005b9576b2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3369835853068851102, guid: 2394fb2256b498a41b6142005b9576b2, type: 3}
       propertyPath: m_RootOrder
@@ -20271,6 +21295,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunk_02 (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 5989293458757905203, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7297352518722591008, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
       propertyPath: m_RootOrder
       value: 32
@@ -20349,6 +21377,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeSpruce_03 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 2470780028315981415, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_RootOrder
       value: 23
@@ -20426,6 +21458,10 @@ PrefabInstance:
     - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_03 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2470780028315981415, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_RootOrder
@@ -20549,6 +21585,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -20570,6 +21610,10 @@ PrefabInstance:
     - target: {fileID: 5989293458757905203, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunk_02 (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5989293458757905203, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7297352518722591008, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
       propertyPath: m_RootOrder
@@ -20649,6 +21693,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
       value: 17
@@ -20726,6 +21774,10 @@ PrefabInstance:
     - target: {fileID: 6698292433620196076, guid: 5163812787245d64da24668d953181cc, type: 3}
       propertyPath: m_Name
       value: ForestTent_02 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6698292433620196076, guid: 5163812787245d64da24668d953181cc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7687157078087477503, guid: 5163812787245d64da24668d953181cc, type: 3}
       propertyPath: m_RootOrder
@@ -20849,6 +21901,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunk_01 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 7806580461576835451, guid: 0ec824720ae65bd4cbe0e6de04e30367, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -20926,6 +21982,10 @@ PrefabInstance:
     - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
       propertyPath: m_Name
       value: ForestMushroom02 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21013,6 +22073,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Particle System
       objectReference: {fileID: 0}
+    - target: {fileID: 1463542284069327566, guid: 9b622658a521a004fa6c676681e8546d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21034,6 +22098,10 @@ PrefabInstance:
     - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_03 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2470780028315981415, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_RootOrder
@@ -21112,6 +22180,10 @@ PrefabInstance:
     - target: {fileID: 545504836582848795, guid: d1b37b7a95bfc7b43aa1b59e57783aca, type: 3}
       propertyPath: m_Name
       value: ForestRiverStraight (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 545504836582848795, guid: d1b37b7a95bfc7b43aa1b59e57783aca, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3587499848545454856, guid: d1b37b7a95bfc7b43aa1b59e57783aca, type: 3}
       propertyPath: m_RootOrder
@@ -21247,6 +22319,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21325,6 +22401,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21346,6 +22426,10 @@ PrefabInstance:
     - target: {fileID: 777252753745572683, guid: a55dcee0f0a34ab42b37482d2825d6fd, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunkTable
+      objectReference: {fileID: 0}
+    - target: {fileID: 777252753745572683, guid: a55dcee0f0a34ab42b37482d2825d6fd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4364553849326010712, guid: a55dcee0f0a34ab42b37482d2825d6fd, type: 3}
       propertyPath: m_RootOrder
@@ -21469,6 +22553,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21546,6 +22634,10 @@ PrefabInstance:
     - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
       propertyPath: m_Name
       value: ForestMushroom02 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21625,6 +22717,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestEmpty (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21646,6 +22742,10 @@ PrefabInstance:
     - target: {fileID: 4758129247282842399, guid: e99ed4ce967aa8a4c8b6e9d19ebbd8b8, type: 3}
       propertyPath: m_Name
       value: ForestTree_02 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4758129247282842399, guid: e99ed4ce967aa8a4c8b6e9d19ebbd8b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8382074735531800844, guid: e99ed4ce967aa8a4c8b6e9d19ebbd8b8, type: 3}
       propertyPath: m_RootOrder
@@ -21781,6 +22881,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunk_01 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 7806580461576835451, guid: 0ec824720ae65bd4cbe0e6de04e30367, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21858,6 +22962,10 @@ PrefabInstance:
     - target: {fileID: 8786015314327442227, guid: 2376b0bc23c563543a8ec1756b256f2a, type: 3}
       propertyPath: m_Name
       value: ForestMushroom01 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8786015314327442227, guid: 2376b0bc23c563543a8ec1756b256f2a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21937,6 +23045,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestFire (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 3856259895457030974, guid: deb2a7132a29f404cb23a1820ed42cc4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21958,6 +23070,10 @@ PrefabInstance:
     - target: {fileID: 4758129247282842399, guid: e99ed4ce967aa8a4c8b6e9d19ebbd8b8, type: 3}
       propertyPath: m_Name
       value: ForestTree_02 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4758129247282842399, guid: e99ed4ce967aa8a4c8b6e9d19ebbd8b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8382074735531800844, guid: e99ed4ce967aa8a4c8b6e9d19ebbd8b8, type: 3}
       propertyPath: m_RootOrder
@@ -22093,6 +23209,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestEmpty (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -22170,6 +23290,10 @@ PrefabInstance:
     - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
       propertyPath: m_Name
       value: ForestMushroom02 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22249,6 +23373,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -22326,6 +23454,10 @@ PrefabInstance:
     - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
       propertyPath: m_Name
       value: ForestEmpty (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22405,6 +23537,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (37)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -22483,6 +23619,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (34)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -22507,7 +23647,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1651339062
 Transform:
@@ -22572,6 +23712,10 @@ PrefabInstance:
     - target: {fileID: 1574454606070941667, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
       propertyPath: m_Name
       value: ForestTree_01 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1574454606070941667, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2558835995030124016, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
       propertyPath: m_RootOrder
@@ -22729,6 +23873,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestEmpty (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -22750,6 +23898,10 @@ PrefabInstance:
     - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_03 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2470780028315981415, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_RootOrder
@@ -22885,6 +24037,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestEmpty (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -22963,6 +24119,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunk_01 (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 7806580461576835451, guid: 0ec824720ae65bd4cbe0e6de04e30367, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23016,6 +24176,10 @@ PrefabInstance:
     - target: {fileID: 1542214643487133949, guid: 637162b888d88194cb404bcffb42573a, type: 3}
       propertyPath: m_Name
       value: ForestTent_03 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1542214643487133949, guid: 637162b888d88194cb404bcffb42573a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2538998663110337262, guid: 637162b888d88194cb404bcffb42573a, type: 3}
       propertyPath: m_RootOrder
@@ -23082,6 +24246,10 @@ PrefabInstance:
     - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
@@ -23193,6 +24361,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8786015314327442227, guid: 2376b0bc23c563543a8ec1756b256f2a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23270,6 +24442,10 @@ PrefabInstance:
     - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
       propertyPath: m_Name
       value: ForestMushroom02 (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23349,6 +24525,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunk_01 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 7806580461576835451, guid: 0ec824720ae65bd4cbe0e6de04e30367, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23426,6 +24606,10 @@ PrefabInstance:
     - target: {fileID: 7806580461576835451, guid: 0ec824720ae65bd4cbe0e6de04e30367, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunk_01 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7806580461576835451, guid: 0ec824720ae65bd4cbe0e6de04e30367, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23505,6 +24689,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (33)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23571,6 +24759,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTent_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 3778682633861357730, guid: a5a01801ab4c97d46a7b6f97c5b13d50, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23595,7 +24787,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1732885702
 Transform:
@@ -23769,6 +24961,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunk_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7806580461576835451, guid: 0ec824720ae65bd4cbe0e6de04e30367, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23793,7 +24989,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1734229508
 Transform:
@@ -23919,6 +25115,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
       value: 26
@@ -23996,6 +25196,10 @@ PrefabInstance:
     - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_03 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2470780028315981415, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_RootOrder
@@ -24075,6 +25279,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
       value: 70
@@ -24140,6 +25348,10 @@ PrefabInstance:
     - target: {fileID: 5989293458757905203, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunk_02 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5989293458757905203, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7297352518722591008, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
       propertyPath: m_RootOrder
@@ -24275,6 +25487,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestStone (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8949762073799961840, guid: dc840a55578ddf8478be0c7c187906d9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -24352,6 +25568,10 @@ PrefabInstance:
     - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
       propertyPath: m_Name
       value: ForestMushroom02 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24431,6 +25651,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (35)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -24497,6 +25721,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -24518,6 +25746,10 @@ PrefabInstance:
     - target: {fileID: 5535035672672658919, guid: 8a8b564f3cd379349b2b01487d59f8c6, type: 3}
       propertyPath: m_Name
       value: ForestBridge_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5535035672672658919, guid: 8a8b564f3cd379349b2b01487d59f8c6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8830217768945194996, guid: 8a8b564f3cd379349b2b01487d59f8c6, type: 3}
       propertyPath: m_RootOrder
@@ -24597,6 +25829,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunk_02 (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 5989293458757905203, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7297352518722591008, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
       propertyPath: m_RootOrder
       value: 39
@@ -24675,6 +25911,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTree_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1574454606070941667, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 2558835995030124016, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
       propertyPath: m_RootOrder
       value: 8
@@ -24740,6 +25980,10 @@ PrefabInstance:
     - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
@@ -24875,6 +26119,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunk_01 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 7806580461576835451, guid: 0ec824720ae65bd4cbe0e6de04e30367, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -24953,6 +26201,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom01 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 8786015314327442227, guid: 2376b0bc23c563543a8ec1756b256f2a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -24974,6 +26226,10 @@ PrefabInstance:
     - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
@@ -25097,6 +26353,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestEmpty (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -25118,6 +26378,10 @@ PrefabInstance:
     - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_03 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2470780028315981415, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_RootOrder
@@ -25197,6 +26461,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestStraight (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 5246580490005629152, guid: 9ea5006d00aa472499ba0ca360b48c70, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 9121127284903852787, guid: 9ea5006d00aa472499ba0ca360b48c70, type: 3}
       propertyPath: m_RootOrder
       value: 14
@@ -25274,6 +26542,10 @@ PrefabInstance:
     - target: {fileID: 4758129247282842399, guid: e99ed4ce967aa8a4c8b6e9d19ebbd8b8, type: 3}
       propertyPath: m_Name
       value: ForestTree_02 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4758129247282842399, guid: e99ed4ce967aa8a4c8b6e9d19ebbd8b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8382074735531800844, guid: e99ed4ce967aa8a4c8b6e9d19ebbd8b8, type: 3}
       propertyPath: m_RootOrder
@@ -25397,6 +26669,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestEmpty (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -25475,6 +26751,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestLake (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 2460503034897897397, guid: 257e42b9a9f55ec43b4032bf0a9efc30, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -25496,6 +26776,10 @@ PrefabInstance:
     - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
@@ -25575,6 +26859,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeSpruce_03 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 2470780028315981415, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_RootOrder
       value: 26
@@ -25653,6 +26941,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
       value: 61
@@ -25719,6 +27011,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
       value: 64
@@ -25784,6 +27080,10 @@ PrefabInstance:
     - target: {fileID: 6330891454689021117, guid: 43631788bbf6c334c99fece93270ffc4, type: 3}
       propertyPath: m_Name
       value: ForestRiverCurve (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6330891454689021117, guid: 43631788bbf6c334c99fece93270ffc4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7025758237699702446, guid: 43631788bbf6c334c99fece93270ffc4, type: 3}
       propertyPath: m_RootOrder
@@ -25862,6 +27162,10 @@ PrefabInstance:
     - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
@@ -25997,6 +27301,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestEmpty (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26074,6 +27382,10 @@ PrefabInstance:
     - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_02 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26228,6 +27540,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom01 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8786015314327442227, guid: 2376b0bc23c563543a8ec1756b256f2a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26305,6 +27621,10 @@ PrefabInstance:
     - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
       propertyPath: m_Name
       value: ForestMushroom02 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26384,6 +27704,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeSpruce_02 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26461,6 +27785,10 @@ PrefabInstance:
     - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_02 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26540,6 +27868,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom01 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 8786015314327442227, guid: 2376b0bc23c563543a8ec1756b256f2a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26564,7 +27896,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1960176478
 Transform:
@@ -26688,6 +28020,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestEmpty (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26766,6 +28102,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestEmpty (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26790,7 +28130,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1964519667
 Transform:
@@ -26949,6 +28289,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestCabin (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 2945261898625810993, guid: 2c6139628bf17834f84d427befedb9f0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
@@ -27030,6 +28374,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestEmpty (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -27051,6 +28399,10 @@ PrefabInstance:
     - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_03 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2470780028315981415, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_RootOrder
@@ -27186,6 +28538,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestEmpty (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -27252,6 +28608,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestAxe (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 8968911191235878446, guid: abcf5a75abc219c4ab38d041d5e0cd9d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -27273,6 +28633,10 @@ PrefabInstance:
     - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
@@ -27351,6 +28715,10 @@ PrefabInstance:
     - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunkBrunch (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 269760992594864564, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3883576127306423207, guid: d57e371ebbd018f458be73d34f70900b, type: 3}
       propertyPath: m_RootOrder
@@ -27473,6 +28841,10 @@ PrefabInstance:
     - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
       propertyPath: m_Name
       value: ForestEmpty (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -27616,6 +28988,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
       value: 35
@@ -27750,6 +29126,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestEmpty (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -27828,6 +29208,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeTrunk_01 (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 7806580461576835451, guid: 0ec824720ae65bd4cbe0e6de04e30367, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -27849,6 +29233,10 @@ PrefabInstance:
     - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_03 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2470780028315981415, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_RootOrder
@@ -27984,6 +29372,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestTreeSpruce_02 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 7763359017756954891, guid: 185207286880b5e44a7940a40f7f409c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -28005,6 +29397,10 @@ PrefabInstance:
     - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
@@ -28083,6 +29479,10 @@ PrefabInstance:
     - target: {fileID: 5989293458757905203, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunk_02 (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5989293458757905203, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7297352518722591008, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
       propertyPath: m_RootOrder
@@ -28218,6 +29618,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom02 (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 6930351614118511177, guid: a23c20d2f3f5cca4b8d20c8669af7144, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -28295,6 +29699,10 @@ PrefabInstance:
     - target: {fileID: 7806580461576835451, guid: 0ec824720ae65bd4cbe0e6de04e30367, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunk_01 (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7806580461576835451, guid: 0ec824720ae65bd4cbe0e6de04e30367, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -28439,6 +29847,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestPaddle (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5276820834552085202, guid: f866f48ee40da9a4c9cb662cfab62f55, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 9178425443367094465, guid: f866f48ee40da9a4c9cb662cfab62f55, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -28504,6 +29916,10 @@ PrefabInstance:
     - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
@@ -28582,6 +29998,10 @@ PrefabInstance:
     - target: {fileID: 5989293458757905203, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
       propertyPath: m_Name
       value: ForestTreeTrunk_02 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5989293458757905203, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7297352518722591008, guid: a73ff1c5585990b4492ba43baca1719c, type: 3}
       propertyPath: m_RootOrder
@@ -28717,6 +30137,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom01 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8786015314327442227, guid: 2376b0bc23c563543a8ec1756b256f2a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -28782,6 +30206,10 @@ PrefabInstance:
     - target: {fileID: 8786015314327442227, guid: 2376b0bc23c563543a8ec1756b256f2a, type: 3}
       propertyPath: m_Name
       value: ForestMushroom01 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8786015314327442227, guid: 2376b0bc23c563543a8ec1756b256f2a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -28861,6 +30289,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestEmpty (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 7486114120955855211, guid: bb57c1e01794ba34cb07e4798e196cf8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -28882,6 +30314,10 @@ PrefabInstance:
     - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_01 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1083664893675277327, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4130551422565842460, guid: 0109d8d1cc1f67d41b7a72cbeb9d9463, type: 3}
       propertyPath: m_RootOrder
@@ -28960,6 +30396,10 @@ PrefabInstance:
     - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_03 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2470780028315981415, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_RootOrder
@@ -29095,6 +30535,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMushroom01 (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 8786015314327442227, guid: 2376b0bc23c563543a8ec1756b256f2a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -29122,7 +30566,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2131864061
 Transform:
@@ -29224,6 +30668,10 @@ PrefabInstance:
     - target: {fileID: 545504836582848795, guid: d1b37b7a95bfc7b43aa1b59e57783aca, type: 3}
       propertyPath: m_Name
       value: ForestRiverStraight (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 545504836582848795, guid: d1b37b7a95bfc7b43aa1b59e57783aca, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3587499848545454856, guid: d1b37b7a95bfc7b43aa1b59e57783aca, type: 3}
       propertyPath: m_RootOrder
