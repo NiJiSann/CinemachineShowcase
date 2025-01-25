@@ -25,5 +25,11 @@ namespace SwitchCm
             buttonLeft.onClick.AddListener(() => _cameraSwitch.SwitchToCamera((int)Switch.Left));
             buttonRight.onClick.AddListener(() => _cameraSwitch.SwitchToCamera((int)Switch.Right));
         }
+
+        private void OnDestroy()
+        {
+            buttonLeft.onClick.RemoveAllListeners();
+            buttonRight.onClick.RemoveAllListeners();
+        }
     }
 }

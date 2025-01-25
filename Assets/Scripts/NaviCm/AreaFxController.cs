@@ -5,10 +5,9 @@ namespace NaviCm
     public class AreaFxController : MonoBehaviour
     {
         [SerializeField] private ActiveArea activeArea;
-    
-        private GameObject _activeAreaLight;
-        private ParticleSystem _activeAreaParticles;
 
+        private AreaFx[] _areaFxs;
+        
         private void Awake() => activeArea.evUpdateActiveArea.AddListener(UpdateAreaLight);
         private void OnDestroy() => activeArea.evUpdateActiveArea.RemoveListener(UpdateAreaLight);
     
@@ -16,22 +15,22 @@ namespace NaviCm
         {
             if (area)
             {
-                _activeAreaLight = area.AreaLight;
-                _activeAreaParticles = area.ParticleSystem;
-                _activeAreaParticles.Play();
-                _activeAreaLight.SetActive(true);
+                _areaFxs = area.AreaFxes;
+
+                foreach (var areaFx in _areaFxs)
+                    areaFx.Play();
             }
             else
             {
-                _activeAreaLight.SetActive(false);
-                _activeAreaParticles.Stop();
+                foreach (var areaFx in _areaFxs)
+                    areaFx.Stop();
             }
         }
 
-        public void TurnOffActiveLight()
+        public void TurnOffAllFx()
         {
-            _activeAreaLight?.SetActive(false);
-            _activeAreaParticles?.Stop();
+            foreach (var areaFx in _areaFxs)
+                areaFx.Stop();
         }
     }
 }

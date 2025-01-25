@@ -5,11 +5,9 @@ namespace NaviCm
     public class Area : MonoBehaviour
     {
         [SerializeField] private GameObject areaCamera;
-        [SerializeField] private GameObject areaLight;
-        [SerializeField] private ParticleSystem particles;
-    
+        [SerializeField] private AreaFx[] _areaFxs;
+        
         public GameObject AreaCamera => areaCamera;
-        public GameObject AreaLight => areaLight;
-        public ParticleSystem ParticleSystem => particles;
+        public AreaFx[] AreaFxes  => _areaFxs;
     }
 }

@@ -8,7 +8,7 @@ namespace NaviCm
     {
         [SerializeField] private GameState gameState;
         [SerializeField] private ActiveArea activeArea;
-        [FormerlySerializedAs("areaLightController")] [SerializeField] private AreaFxController areaFxController;
+        [SerializeField] private AreaFxController areaFxController;
         [SerializeField] private Button backToInitialCamera;
         [SerializeField] private GameObject initialCamera;
 
@@ -20,9 +20,13 @@ namespace NaviCm
             activeArea.evUpdateActiveArea.AddListener(UpdateAreaCamera);
             backToInitialCamera.onClick.AddListener(BackToInitialCamera);
             _activeAreaCamera = initialCamera;
-        } 
-        
-        private void OnDestroy() => activeArea.evUpdateActiveArea.RemoveListener(UpdateAreaCamera);
+        }
+
+        private void OnDestroy()
+        {
+            activeArea.evUpdateActiveArea.RemoveListener(UpdateAreaCamera);
+            backToInitialCamera.onClick.RemoveListener(BackToInitialCamera);
+        }
 
         private void Update()
         {
@@ -35,7 +39,7 @@ namespace NaviCm
                 _hoveredAreaCamera.SetActive(true);
                 _activeAreaCamera.SetActive(false);
                 _activeAreaCamera = _hoveredAreaCamera;
-                areaFxController.TurnOffActiveLight();
+                areaFxController.TurnOffAllFx();
             }
         }
     
